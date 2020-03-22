@@ -1,0 +1,2 @@
+# Impact_of_Climate_Change_on_Board
+Our analysis will use data from the UK Met Office together with records from the Global Biodiversity Information Facility to build our very own species distribution model using machine learning. This model will be able to predict where our bird species of interest is likely to occur in the future - information that is invaluable to conservation organization working on the ground to preserve these species and save them from extinction!  In this notebook, we will model the Scottish crossbill (Loxia scotica).
